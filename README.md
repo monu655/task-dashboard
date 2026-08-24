@@ -11,6 +11,12 @@ server-side (not just by hiding buttons in the UI).
 
 ---
 
+
+Live Demo: https://task-dashboard-ui-nine.vercel.app
+GitHub: https://github.com/monu655/task-dashboard
+
+Demo Login: [admin@example.com](mailto:admin@example.com) / admin123
+
 ## 1. Project Overview
 
 Admins can create, edit, delete, and assign tasks to employees. Employees
